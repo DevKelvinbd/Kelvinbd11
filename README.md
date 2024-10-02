@@ -40,14 +40,6 @@
 
 ###
 
-<h2 align="left">Activity</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/Kelvinbd11/Kelvinbd11/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Social Media</h2>
 
 ###
