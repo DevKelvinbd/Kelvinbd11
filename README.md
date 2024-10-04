@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Frontend Web Developer<br>- I'm studying C# for Backend<br>- I'm studying React and the Web base, Html, CSS and Javascript<br>- I'm studying C# to learn OOP concepts<br>- Graduating in Information Systems</p>
+<p align="left">- Frontend Web Developer<br>- I'm studying React and the Web base, Html, CSS and Javascript<br>- I'm studying C# to learn OOP concepts<br>- Graduating in Information Systems</p>
 
 ###
 
